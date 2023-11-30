@@ -136,7 +136,7 @@ function App() {
             onClick={shareMultipleImages}
             className="block bg-gray-900 text-white rounded-lg py-4 px-16 mx-auto mt-8 tracking-wide"
           >
-            Share image
+            Share multiple image
           </button>
         </div>
       </article>
